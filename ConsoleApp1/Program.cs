@@ -1,13 +1,15 @@
-﻿  using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace ConsoleApp1
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             float a, b, c;
@@ -21,7 +23,7 @@ namespace ConsoleApp1
 
             float d;
 
-            Console.WriteLine("Введите первое число");
+            Console.WriteLine("Введитaе первое число");
             a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите второе число");
             b = Convert.ToInt32(Console.ReadLine());
@@ -39,5 +41,6 @@ namespace ConsoleApp1
             Console.WriteLine(+d);
            
         }
+
     }
 }

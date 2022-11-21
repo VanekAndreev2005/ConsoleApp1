@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\netstandard1.4\MyLib.deps.json
+C:\Users\User\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\netstandard1.4\MyLib.dll
+C:\Users\User\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\netstandard1.4\MyLib.pdb
+C:\Users\User\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard1.4\MyLib.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard1.4\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard1.4\MyLib.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard1.4\MyLib.dll
+C:\Users\User\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard1.4\MyLib.pdb
